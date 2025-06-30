@@ -1,5 +1,9 @@
 # ❤️ Heart Disease Prediction App with AI Chatbot
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?logo=streamlit)](https://streamlit.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 A simple and interactive web application that predicts the risk of heart disease based on user input using a trained Random Forest Classifier.
 
 Built using [Streamlit](https://streamlit.io/) and [scikit-learn](https://scikit-learn.org/), this project includes full data analysis, model training, and a user-friendly prediction app.
@@ -18,7 +22,7 @@ Built using [Streamlit](https://streamlit.io/) and [scikit-learn](https://scikit
 
 ## 📊 Dataset
 
-- File: `heart_disease.csv`
+- File: `heart_disease_data.csv`
 - Columns:
   - `age`, `sex`, `chest pain type`, `resting bp s`, `cholesterol`,  
     `fasting blood sugar`, `resting ecg`, `max heart rate`,  
@@ -54,7 +58,7 @@ Heart-Disease-Predictor/
 ```
 ---
 
-## 📦 How to Run Locally
+## 🚀 How to Run Locally
 
 1. **🧬Clone the repository:**
    ```bash
