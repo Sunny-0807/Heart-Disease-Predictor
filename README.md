@@ -2,9 +2,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?logo=streamlit)](https://streamlit.io/)
+[![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq-blueviolet?logo=groq)](https://console.groq.com/)
 
 
-A simple and interactive web application that predicts the risk of heart disease based on user input using a trained Random Forest Classifier.
+An interactive Streamlit web application that predicts the risk of heart disease using a trained Random Forest model — complete with a built-in health assistant chatbot powered by Groq AI for personalized lifestyle and dietary guidance.
 
 Built using [Streamlit](https://streamlit.io/) and [scikit-learn](https://scikit-learn.org/), this project includes full data analysis, model training, and a user-friendly prediction app.
 
