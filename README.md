@@ -40,15 +40,17 @@ This notebook covers the complete ML workflow:
 ---
 ## 📁 Project Structure
 ```bash
-heart-disease-app/
-├── 🎯Predictor.py
-├── heart_disease_model.pkl
-├── heart_disease.csv
-├── heart_disease.ipynb
-├── requirements.txt
-├── README.md
+Heart-Disease-Predictor/
+├── .gitignore                  
+├── README.md                   
+├── heart_disease.ipynb         
+├── heart_disease_data.csv     
+├── heart_disease_model.pkl     
+├── requirements.txt         
+├── Predictor.py              
 └── pages/
-    └──  🤖Chatbot.py
+    └── Chatbot.py             
+
 ```
 ---
 
@@ -56,8 +58,8 @@ heart-disease-app/
 
 1. **🧬Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/heart-disease-app.git
-   cd heart-disease-app
+   https://github.com/Sunny-0807/Heart-Disease-Predictor.git
+   cd Heart-Disease-Predictor
    ```
 2. **📦 Install the requirements:**
     ```bash
@@ -79,4 +81,6 @@ Use the sidebar to switch between:
 
 ---
 
+## 📜 Disclaimer
+This project is for **educational/demo purposes only** and is not **intended for real-world diagnosis or medical decisions**.
 
