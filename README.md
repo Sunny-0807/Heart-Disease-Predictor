@@ -73,7 +73,8 @@ Heart-Disease-Predictor/
 3. **🔐 Add your Groq API key:**
 
    Create a .env file in the root directory:
-   (If you don;t have the groq api key, you can get it from [here](https://console.groq.com/keys)
+
+   (If you do not have a Groq API key, you can obtain one [here](https://console.groq.com/keys).)
     ```bash
     GROQ_API_KEY=your_groq_api_key_here
     ```
