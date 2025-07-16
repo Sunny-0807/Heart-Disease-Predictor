@@ -8,11 +8,11 @@ import joblib
 # page config
 st.set_page_config(
     page_title = "Heart Disease Predictor",
-    page_icon = "❤️",
+    page_icon = "🫀",
     layout = "centered"
 )
 
-st.title("❤️ Heart Disease Prediction")
+st.title("🫀 Heart Disease Prediction")
 
 # loading the trained model
 model = joblib.load("heart_disease_model.pkl")
