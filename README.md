@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction App with AI Chatbot
+# 🫀 Heart Disease Prediction App with AI Chatbot
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?logo=streamlit)](https://streamlit.io/)
