@@ -7,7 +7,7 @@ load_dotenv()
 
 groq_api_key = os.getenv("GROQ_API_KEY")
 if not groq_api_key:
-    st.error("GROQ_API_KEY is not foound! Please set it in the .env file.")
+    st.error("GROQ_API_KEY is not found! Please set it in the .env file.")
 
 client = Groq(api_key = groq_api_key)
 
