@@ -80,7 +80,7 @@ Heart-Disease-Predictor/
     ```
 5. **▶️ Launch the app:**
     ```bash
-    streamlit run 🎯Predictor.py
+    streamlit run Predictor.py
     ```
 Use the sidebar to switch between:
 - Predictor
