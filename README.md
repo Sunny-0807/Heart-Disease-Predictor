@@ -66,11 +66,29 @@ Heart-Disease-Predictor/
    https://github.com/Sunny-0807/Heart-Disease-Predictor.git
    cd Heart-Disease-Predictor
    ```
-2. **📦 Install the requirements:**
+2. **🐍 Create a virtual environment:**
+    - Windows:
+       ```bash
+        python -m venv venv
+       ```
+    - macOS/Linux:
+       ```bash
+        python3 -m venv venv
+       ```
+3. **⚙️ Activate the virtual environment:**
+    - Windows:
+       ```bash
+        venv\Scripts\activate
+       ```
+    - macOS/Linux:
+       ```bash
+        source venv/bin/activate
+       ```
+4. **📦 Install the requirements:**
     ```bash
     pip install -r requirements.txt
     ```
-3. **🔐 Add your Groq API key:**
+5. **🔐 Add your Groq API key:**
 
    Create a .env file in the root directory:
 
@@ -78,7 +96,7 @@ Heart-Disease-Predictor/
     ```bash
     GROQ_API_KEY=your_groq_api_key_here
     ```
-5. **▶️ Launch the app:**
+6. **▶️ Launch the app:**
     ```bash
     streamlit run Predictor.py
     ```
